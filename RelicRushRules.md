@@ -10,20 +10,26 @@
   - Add 3 in the space directly by the bridge tower
   - Add 1 in the starting area
 - **Each player chooses a figure** to play with and draws a card for a special ability:
-  - Once per game can cancel a disaster
-  - Once per game can revive a teammate
-  - Moves 1 extra space per roll
-  - Swimmer - can not be eliminated by the river trap - place the figure back on the starting space if eliminated in the river
-  - Does not have to move when landing on an arrow space
-  - Once per game, can avoid a negative effect from a crate
-  - Rolls a 'Helping Hand' dice each turn. Can save a player from a disaster this turn for each hand rolled
-  - Rolls a 'Helping Hand' dice each turn. Can move a teammate 1 space for each hand rolled
+
+| Ability | Effect |
+|---------|--------|
+| Cancel Disaster | Once per game can cancel a disaster |
+| Revive Teammate | Once per game can revive a teammate |
+| Extra Movement | Moves 1 extra space per roll |
+| Swimmer | Cannot be eliminated by river trap - returns to start if caught |
+| Arrow Immunity | Does not have to move when landing on an arrow space |
+| Crate Protection | Once per game, can avoid a negative effect from a crate |
+| Helping Hand (Save) | Rolls a 'Helping Hand' dice each turn - can save a player from disaster for each hand rolled |
+| Helping Hand (Move) | Rolls a 'Helping Hand' dice each turn - can move a teammate 1 space for each hand rolled |
 - **Give 1 green movement die** to each player
 - **Set the Game Over timer** based on the number of players:
-  - 2 players - set dial to 7
-  - 3 players - set dial to 8
-  - 4 players - set dial to 9
-  - 5 players - set dial to 10
+
+| Players | Timer Setting |
+|---------|---------------|
+| 2       | 7             |
+| 3       | 8             |
+| 4       | 9             |
+| 5       | 10            |
 - **Set the speed of the "Flow" trap** to the lowest level. You may need to move it back-and-forth if the river and lava aren't moving
 - **Set the speed of the "Timer" trap** to the lowest level
 - **Place the Disaster Dice (black)** in the center of the table so that all players can reach it
@@ -34,13 +40,16 @@
 ## Winning & Losing
 
 ### To win the game
-Retrieve 3 relics and return them to the receptacles at the start before the Game Over timer reaches 0.
+Retrieve relics and return them to the receptacles at the start before the Game Over timer reaches 0.
 
-**Relics needed by player count:**
-- 2 players: 3 relics
-- 3 players: 5 relics
-- 4 players: 6 relics
-- 5 players: 7 relics
+**Relics needed:**
+
+| Players | Relics Required |
+|---------|-----------------|
+| 2       | 3               |
+| 3       | 5               |
+| 4       | 6               |
+| 5       | 7               |
 
 ### Game is lost if:
 - The Game Over timer reaches 0, OR
